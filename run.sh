@@ -1,6 +1,6 @@
 #!/bin/bash
 #$ -l h_rt=0:20:00
-#$ -l rt_AF=1
+#$ -l rt_AF=2
 #$ -j y
 #$ -N DDP_TEST
 #$ -cwd
